@@ -1,1 +1,1 @@
-# foundations_202
+# Repository for Foundations (COGS 202)
