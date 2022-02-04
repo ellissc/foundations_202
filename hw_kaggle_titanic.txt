@@ -1,0 +1,4 @@
+Colab link: https://colab.research.google.com/drive/1XZbHDLJP2nkycYCDBjZvnwBs6U5DM4lW?usp=sharing
+
+Kaggle link: https://www.kaggle.com/ecains/competitions
+
