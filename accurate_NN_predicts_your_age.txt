@@ -1,0 +1,5 @@
+Link to colab notebook:
+
+https://colab.research.google.com/drive/1CM0Ow-_94iobbbJmQPPjgT1lRA9rQGjm?usp=sharing
+
+Ended up running data preproc on local machine since colab was slow.
