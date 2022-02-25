@@ -1,0 +1,38 @@
+Potential things to do:
+learn regex
+https://regex101.com/
+https://regexr.com/
+https://regexone.com/
+
+scraps folder for projects
+
+SSH server:
+ssh cogs202_2022@165.22.13.243
+cogcat42_
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Behavioral experiment:
+
+Theory without experimentation -- Freud, unconscious influences conscious
+    Quasi-experimental methods, intuition analysis would be influenced by his own subconscious
+Experimentation without Theory
+    Pure mechanistic accounts without an overarching theory
+    Double-blind experiments, etc.
+
+Hypothesis testing as signal detection theory
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Amazon MTurk lecture day
+
+Prolific - UK based, better weeding out of bots, but min $ of $9.60/hr
+
+Normally 15-20c / minute
+
+Panels / market research firms -> niche samples, minimize demographic confounds (Cint, cloudresearch)
+
+Bot counter measures: pay extra for screening (pretest for 0.05 that leads to real study, mention that it's a multipart experiment -> but it's more work), use other service (prolific, panels), increase participant prefilters (99% acceptance, 500 hits, etc), catch questions and filters (open text responses, "in at least one complete sentence..." -> human work to filter), captcha, filter for time spent, attention checks
+
+Don't require answers -> give a reminder but don't require, filter based on completeness
+Err on the side of paying them, but exclude the data from the analysis
