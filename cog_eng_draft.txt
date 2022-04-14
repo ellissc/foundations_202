@@ -1,0 +1,24 @@
+Technological product: Live mixer soundboard (Allen & Heath GL2000)
+
+
+The Allen & Heath GL2000 is a live mixer soundboard, with 32 mono channels. Each channel has volume control sliders, monitor and LR balance knobs, as well as an equilizer section. This soundboard has a standard two stereo channel output. Overall, it has a practical and functional feature set for a live mixer.
+
+This products' strengths are mainly found in its practicality. Very direct knob-to-function mapping / one-to-one knob-to-function ratio, so there isn't any ambiguity for what a given knob/parameter does. Vertical sliders are used for each channel's volume controls and the stereo balance knobs are organized such that it matches left-right. The voltage displays are also very "realistic", with the number and color of lights matching common conventions (green as good, yellow as caution, red as too loud).
+
+However, since its design is based on quite a bit of jargon, the main weakness is a steep learning curve. While it is straightforward and logical, beginners will feel overwhelmed with the amount of parameters. Generally speaking, the "rarely needed" information would be the EQ section of the board (since you would only have to set it once). Newer models implemented in a menu system. Taken a channel at a time, the organization is quite straightforward, however, the aesthetics suffer based on the above strengths. There are 32 channels in this board, so there are 32 columns of volume sliders, monitor balance, and EQ knobs. All of these compete for an individual's attention. 
+
+Aesthetics -- interfaces should not contain extra or rarely needed information. Every
+unit of info competes for attention. Visual elements should support the user's primary
+goals. 
+
+Realism -- words, phrases, and concepts should be familar to the user rather than jargon. 
+Follow real-world conventions, make info appear in natural and logical order. Should feel
+intuitive. 
+
+
+
+
+
+
+
+

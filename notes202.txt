@@ -36,3 +36,15 @@ Bot counter measures: pay extra for screening (pretest for 0.05 that leads to re
 
 Don't require answers -> give a reminder but don't require, filter based on completeness
 Err on the side of paying them, but exclude the data from the analysis
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+(Agent based) modeling
+
+- Yes.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+UX / HCI
+
+- 
